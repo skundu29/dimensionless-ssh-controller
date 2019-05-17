@@ -13,7 +13,7 @@
         }, 
         { 
             "Username": "Surajit", 
-            "PublicIp": "84.81.9.226" 
+            "PublicIp": "84.81.9.226/32" 
         }, 
         { 
             "Username": "Hardik", 
